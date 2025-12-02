@@ -1,4 +1,5 @@
-# Google Pay API sample app for Android
+Google Wallet 
+Google Pay API sample app for Android
 
 ## Overview
 This sample demonstrates basic usage of the Google Pay API for Android.
